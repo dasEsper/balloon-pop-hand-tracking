@@ -70,7 +70,7 @@ The balloon speed increases as the game continues, making the game more challeng
 Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/balloon-pop-hand-tracking.git
+git clone https://github.com/dasEsper/balloon-pop-hand-tracking.git
 cd balloon-pop-hand-tracking
 ```
 
