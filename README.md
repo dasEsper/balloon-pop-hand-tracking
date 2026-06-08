@@ -20,16 +20,8 @@ The game includes:
 
 ## Demo
 
-Add demo video or GIF here:
-
 ```markdown
-![Demo](demo/demo.gif)
-```
-
-or
-
-```markdown
-[Watch demo video](demo/demo.mp4)
+[Watch demo video](demo/demo.mkv)
 ```
 
 ## Tools and Libraries
